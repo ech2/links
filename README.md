@@ -15,3 +15,4 @@ Different pieces of knoledge gathered in one place for my pleasure.
 ## Software
 
 - [Chronix](http://www.chronix.io/) — a time-series database
+- [spaCy](https://spacy.io/) — Industrial-Strength Natural Language Processing in Python
