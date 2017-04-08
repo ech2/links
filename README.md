@@ -13,6 +13,9 @@ Different pieces of knoledge gathered in one place for my pleasure.
 - [Relationship Extraction from Unstructured Text Based on Stanford NLP with Spark](https://youtu.be/PlmNvfyVy_4?t=14m1s)
 - [spaCy](https://spacy.io/) — Industrial-Strength Natural Language Processing in Python
 
+## Data and things related
+- [The Three Faces of Bayes](https://slackprop.wordpress.com/2016/08/28/the-three-faces-of-bayes/)
+
 ## Software
 
 - [Chronix](http://www.chronix.io/) — a time-series database
