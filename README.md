@@ -19,3 +19,7 @@ Different pieces of knoledge gathered in one place for my pleasure.
 ## Software
 
 - [Chronix](http://www.chronix.io/) — a time-series database
+
+## Blogs
+
+- [The 20% Statistician](http://daniellakens.blogspot.fi/)
