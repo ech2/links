@@ -22,6 +22,7 @@ Different pieces of knoledge gathered in one place for my pleasure.
 ## Data and things related
 - [The Three Faces of Bayes](https://slackprop.wordpress.com/2016/08/28/the-three-faces-of-bayes/)
 - [Seeing Theory](http://students.brown.edu/seeing-theory/) — A visual introduction to probability and statistics.
+- [Modes, Medians and Means: A Unifying Perspective](http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/)
 
 ## Software
 
