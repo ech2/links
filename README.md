@@ -7,6 +7,7 @@ Different pieces of knoledge gathered in one place for my pleasure.
 - [Efficient scientific writing with (multi)markdown](http://wwwpub.zih.tu-dresden.de/~s4560758/resources/multimarkdown.pdf) — good introduction, but lacks of reference management info.
 - [A Research to Engineering Workflow](http://dustintran.com/blog/a-research-to-engineering-workflow) — an example of the research workflow.
 - [10 years of professional blogging – what I’ve learned](http://andrewchen.co/professional-blogging/)
+- [How to Write Articles and Essays Quickly and Expertly](http://www.downes.ca/post/38526)
 
 ## Programming
 
