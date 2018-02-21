@@ -8,6 +8,7 @@ Different pieces of knoledge gathered in one place for my pleasure.
 - [A Research to Engineering Workflow](http://dustintran.com/blog/a-research-to-engineering-workflow) — an example of the research workflow.
 - [10 years of professional blogging – what I’ve learned](http://andrewchen.co/professional-blogging/)
 - [How to Write Articles and Essays Quickly and Expertly](http://www.downes.ca/post/38526)
+- [Research Questions / Hypotheses for an Engineering (CS) Thesis](https://academia.stackexchange.com/a/38954) — this is a question on StackExchange about choosing the research question for the thesis in Computer Engineering. Check the answer.
 
 ## Programming
 
