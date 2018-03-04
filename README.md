@@ -3,7 +3,7 @@ Different pieces of knoledge gathered in one place for my pleasure.
 ## Writing and research
 
 - [The Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/) is a general resource for academic writers
-- [How to Write a Great Research Paper](https://www.youtube.com/watch?v=g3dkRsTqdDA) by Prof. Simon Peyton Jones
+- [How to Write a Great Research Paper](https://www.microsoft.com/en-us/research/video/how-to-write-a-great-research-paper-3/) by Prof. Simon Peyton Jones
 - [How to write a first-class paper](https://www.nature.com/articles/d41586-018-02404-4) at Nature.com
 - [Efficient scientific writing with (multi)markdown](http://wwwpub.zih.tu-dresden.de/~s4560758/resources/multimarkdown.pdf) — good introduction, but lacks of reference management info.
 - [A Research to Engineering Workflow](http://dustintran.com/blog/a-research-to-engineering-workflow) — an example of the research workflow.
