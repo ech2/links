@@ -10,6 +10,7 @@ Different pieces of knoledge gathered in one place for my pleasure.
 - [10 years of professional blogging – what I’ve learned](http://andrewchen.co/professional-blogging/)
 - [How to Write Articles and Essays Quickly and Expertly](http://www.downes.ca/post/38526)
 - [Research Questions / Hypotheses for an Engineering (CS) Thesis](https://academia.stackexchange.com/a/38954) — this is a question on StackExchange about choosing the research question for the thesis in Computer Engineering. Check the answer.
+- [Pixar’s 22 rules of storytelling](https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/)
 
 ## Programming
 
