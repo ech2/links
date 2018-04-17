@@ -26,6 +26,7 @@ Different pieces of knoledge gathered in one place for my pleasure.
 - [Lifting the Hood on NLTK's NE Chunker](http://mattshomepage.com/articles/2016/May/23/nltk_nec/)
 - [Relationship Extraction from Unstructured Text Based on Stanford NLP with Spark](https://youtu.be/PlmNvfyVy_4?t=14m1s)
 - [spaCy](https://spacy.io/) — Industrial-Strength Natural Language Processing in Python
+- [Parsing: a timeline](https://jeffreykegler.github.io/personal/timeline_v3) — a timeline of parsing approaches, beginning with Panini :)
 
 ## Data and things related
 - [The Three Faces of Bayes](https://slackprop.wordpress.com/2016/08/28/the-three-faces-of-bayes/)
