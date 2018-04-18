@@ -37,6 +37,10 @@ Different pieces of knoledge gathered in one place for my pleasure.
 
 - [Chronix](http://www.chronix.io/) — a time-series database
 
+## Sound
+
+- [BBC Sound Effects](http://bbcsfx.acropolis.org.uk/) — licensed free for non-commercial use.
+
 ## Blogs
 
 - [The 20% Statistician](http://daniellakens.blogspot.fi/)
