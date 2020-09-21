@@ -18,6 +18,7 @@ Different pieces of knoledge gathered in one place for my pleasure.
 - [Oh, shit, git!](http://ohshitgit.com/) — recipies for fixing problems in git.
 - [Exercises in Programming Style](https://henrikwarne.com/2018/03/13/exercises-in-programming-style/) — a review of a book that presents the same program written in 33 different programming styles.
 - [Gallery of Processor Cache Effects](http://igoro.com/archive/gallery-of-processor-cache-effects/)
+- [The Little Things: Speeding up C++ compilation](https://codingnest.com/the-little-things-speeding-up-c-compilation/)
 
 ## DSP
 - Signal weighting implementation in Python: [A-weighting](https://github.com/endolith/waveform-analyzer/blob/master/A_weighting.py), [ITU-R 468](https://github.com/endolith/waveform-analyzer/blob/master/ITU_R_468_weighting.py)
